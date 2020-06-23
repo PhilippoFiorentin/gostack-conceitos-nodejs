@@ -1,3 +1,4 @@
 node_modules
 .jshintrc
 .idea
+package.json
